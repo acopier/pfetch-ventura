@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/sh
 #
 # pfetch - Simple POSIX sh fetch script.
 
